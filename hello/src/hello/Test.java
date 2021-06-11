@@ -8,7 +8,7 @@ public class Test {
 	public static int substract(int a,int b) {
 		return a-b;
 	}
-	public static int mul(int a,int b) {
+	public static int mal(int a,int b) {
 		return a*b;
 	}
 	public static void main(String[] args) {
