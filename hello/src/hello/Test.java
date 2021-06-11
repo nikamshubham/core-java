@@ -8,6 +8,9 @@ public class Test {
 	public static int substract(int a,int b) {
 		return a-b;
 	}
+	public static int mul(int a,int b) {
+		return a*b;
+	}
 	public static void main(String[] args) {
 		System.out.println("Main method added and file is pushed from eclipse");
 		Employee e = new Employee(114, "Shubham");
